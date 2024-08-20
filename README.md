@@ -1,4 +1,5 @@
 ## Hi! I am Sam and i'm a Computer Science and Engineering student at the Ohio State University.
+## Im currently working on getting an internship for the summer of 2025
 <!--
 **SamGrobelny/SamGrobelny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
