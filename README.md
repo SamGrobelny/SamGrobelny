@@ -1,1 +1,1 @@
-![Leetcode Stats](https://leetcard.jacoblin.cool/SamGrobelny)
+![Leetcode Stats](https://leetcard.jacoblin.cool/SamGrobelny?ext=activity)
